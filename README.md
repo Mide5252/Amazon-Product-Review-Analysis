@@ -10,7 +10,7 @@ As a Beginner Data Analyst with DAS Incubator Hub I was given a dataset from Ama
 3. Total number of reviews per category
 4. Products with highest average ratings
 5. Average actual price vs discounted price by category
-6. Products with highest number of reviews
+6. Product with highest number of reviews
 7. Number of products with a discount of 50% or more
 8. Distribution of product ratings
 9. Total potential revenue by category
@@ -48,5 +48,7 @@ Below are some of the key findings/take aways
 For further view of the findings are visuals you can see a screenshot of the dashboard below alonside a linkt to downlaod the full report:
 
 ## Screenshot of Dashboard
+
+![Amazon Screenshot](https://github.com/user-attachments/assets/1958b53a-be4a-43bb-8caa-ad7c7aef8c95)
 
 
