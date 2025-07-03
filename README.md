@@ -53,7 +53,12 @@ For further view of the findings are visuals you can see a screenshot of the das
 
 ## Full Report
 
-You can download the full version of the Amazone report from this link below. The report caontains information like the table, pivort table and charts, and the dashboard.
+You can download the full version of the Amazone report from this link below. The report contains information like the table, pivot table and charts, and the dashboard.
  ![Download here](https://docs.google.com/spreadsheets/d/1uO6yldTsRcZK0e43n07IdQbdP4RhBBdC/edit?usp=drive_link&ouid=108035890943521289405&rtpof=true&sd=true)
+
+ ## Author
+
+ George Idowu George (https://github.com/Mide5252) 
+ Junior Data Analyst
 
 
