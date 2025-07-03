@@ -38,12 +38,12 @@ These were the some of the following analysis that was done;
 
 Below are some of the key findings/take aways
 
-1. The total product analysed is 1349 out of the 1466 that was given from the onset.
-2. The total number of product that had a discount within the range of 50% and above is 661
-3. The total number of product with reviews not up to 1,000 is 307
+1. The total product analyzed is 1349 out of the 1466 that was given from the onset.
+2. The total number of products that had a discount within the range of 50% and above is 661
+3. The total number of products with reviews not up to 1,000 is 307
 4. The product category that has the potential of generating more revenue to the company is electronics.
 5. In an attempt to compare different product with their average prices electronics still came top with the product with the highest average price rate. 
-6. It is also important to point out that home and funiture products however has more discount percentage compare to other products.
+6. It is also important to point out that home and furniture products however has more discount percentage compare to other products.
 
 For further view of the findings are visuals you can see a screenshot of the dashboard below alonside a linkt to downlaod the full report:
 
